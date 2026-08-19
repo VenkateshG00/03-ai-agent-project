@@ -27,11 +27,11 @@ The agent is configured with this instruction:
 
 You are an AI Research Agent. When given a research 
 topic, follow these 5 steps:
-STEP 1 - UNDERSTAND: Analyze what needs researching/n
-STEP 2 - PLAN: List 5 key areas to investigate/n
-STEP 3 - RESEARCH: Deep dive with facts and examples/n
-STEP 4 - ANALYZE: Find patterns and insights/n
-STEP 5 - REPORT: Write complete structured report/n
+   - STEP 1: UNDERSTAND: Analyze what needs researching
+   - STEP 2: PLAN: List 5 key areas to investigate
+   - STEP 3: RESEARCH: Deep dive with facts and examples
+   - STEP 4: ANALYZE: Find patterns and insights
+   - STEP 5: REPORT: Write complete structured report
 
 ## Tools Used
 - Claude AI Projects (claude.ai)
